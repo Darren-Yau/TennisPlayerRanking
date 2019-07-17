@@ -2,6 +2,8 @@
 Ranking Tennis Players
 
 Completed a coding assignment that got me an interview round with UTRTennis
+
+
 Created a script to rank tennis players from best to worst
 My algorithm uses Google's page rank algorithm, and power method for EigenValues
 This is useful for ranking players/teams even if they have never played against each other
