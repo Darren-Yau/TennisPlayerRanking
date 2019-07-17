@@ -12,8 +12,8 @@ This is useful for ranking players/teams even if they have never played against 
 2. I created my algorithm is weighted on difference of score, and if a player won convincingly (2 points or more on an individual set)
 3. I create a matrix where winner's score will be cell[B][C] and loser's score will be cell[C][B]
 4. I then plotted the points on a dataframe and can be viewed at matrix.csv
-5. Using power method for EigenValues, I solved for a dominant eigen vector and output the result to rank.csv
-6. I sorted the data to result.csv with player id in first column and their rank in the second column
+5. Using power method for EigenValues, I solved for a dominant eigen vector and output the result to result.csv
+6. I sorted the data to sortedResult.csv with player id in first column and their rank in the second column
 
 Lessons Learned
 1. In my first algorithm I just plotting a difference in score leads to a faulty eigenvector
