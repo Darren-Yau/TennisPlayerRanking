@@ -20,6 +20,10 @@ Lessons Learned
 2. Adding more variables such as adding points when a player won convincingly leads to better ranking results.
 2. Just ranking by players that never lost will not work since the winning may have won against really bad players.
 
+How to use
+1 Copy TennisRank.py and UTRTennisData.csv into an empty file or clone this repository
+2 You may need to numpy and pandas with a simple pip installation (added a requirements.txt file)
+3 run TennisRank.py 
 
 
 
